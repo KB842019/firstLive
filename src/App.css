@@ -1,0 +1,16 @@
+
+.App{
+  text-align: center;
+}
+body{
+  background-color: black;
+}
+label{
+     padding: 0px 10px;
+     font-size: 16px;
+}
+input{
+  margin-left: 50px;
+  padding: 5px;
+ 
+}
