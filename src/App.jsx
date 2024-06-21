@@ -11,7 +11,8 @@ const defaultColDef = {
   filter:true,
   floatingFilter:true,
   pagination:true,
-  paginationPageSize:10
+  paginationPageSize:10,
+  rowBuffer:10
 };
 function App() {
   const [formData, setFormData] = useState({
