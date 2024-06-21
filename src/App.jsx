@@ -10,7 +10,8 @@ const defaultColDef = {
   editable: true,
   filter:true,
   floatingFilter:true,
-  pagination:true
+  pagination:true,
+  paginationPageSize:10
 };
 function App() {
   const [formData, setFormData] = useState({
